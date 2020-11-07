@@ -1,0 +1,26 @@
+.shortner__inputContainer {
+  display: flex;
+  background-color: white;
+  padding: 15px 20px;
+
+  box-sizing: unset;
+  border-radius: 50px;
+  justify-content: space-between;
+}
+.shortner__inputContainer input {
+  border: none;
+  outline: none;
+  width: 100%;
+  font-size: 19px;
+}
+.shortner {
+  width: 35%;
+  margin-top: 40px;
+}
+.MuiSvgIcon-root {
+  background-color: rgb(221, 112, 221);
+  padding: 5px;
+  box-sizing: unset;
+  border-radius: 99px;
+  color: black;
+}
